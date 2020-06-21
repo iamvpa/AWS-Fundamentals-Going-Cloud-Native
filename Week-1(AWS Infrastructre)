@@ -1,0 +1,54 @@
+1.Question 1
+According to the lecture, why does AWS exist?
+
+
+
+a:To create more server space
+
+
+b:To eliminate heavy-lifting tasks for your IT department
+
+
+c:To replace your entire IT department
+
+
+d:To replace all your hardware
+Ans:b:To eliminate heavy-lifting tasks for your IT department
+
+2.Question 2
+When choosing an AWS Region, which factors should you consider? (Select all that apply)
+
+
+a:Latency
+
+b:Services
+
+c:Cost
+
+d:Compliance
+Ans:a,b,c,d
+
+3.Question 3
+What is true about Regions? (Select two)
+
+
+a:Physical location with multiple Availability Zones
+
+b:Physical location of your customers
+
+c:All regions are located in one specific geographic area
+
+d:Each region is located in a separate geographic area
+Ans:a,d
+
+4.Question 4
+A region is comprised of at least two Availability Zones (AZs).
+
+a:True
+
+b:False
+Ans:a
+
+
+
+
