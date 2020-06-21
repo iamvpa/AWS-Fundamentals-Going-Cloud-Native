@@ -1,0 +1,65 @@
+1.Question 1
+When creating a VPC, what items must you include? (Select two)
+
+
+a:IP Range
+
+
+b:Internet Gateway
+
+
+c:Region
+
+
+d:Security Group
+Ans:a,c
+
+2.Question 2
+A subnet is a subset of IP ranges for a VPC.
+
+
+a:False
+
+
+b:True
+Ans:b
+
+3.Question 3
+What must you configure to allow your VPC to communicate to the internet?
+
+
+
+a:Subnet
+
+
+b:Internet Gateway
+
+
+c:Availability Zone
+
+
+d:Region
+Ans:b
+
+4.Question 4
+According to the video, how did Morgan and Blaine account for high availability for their VPC?
+
+
+a:Create a new public and private subnet in a new Availability Zone (AZ)
+
+
+b:Create a standby RDS in the public subnet
+
+
+c:Change the public subnet to private
+
+
+d:Create a new public and private subnet in a new VPC
+Ans:a
+
+
+
+
+
+
+
