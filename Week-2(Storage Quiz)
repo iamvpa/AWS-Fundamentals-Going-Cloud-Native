@@ -1,0 +1,111 @@
+1.Question 1
+What type of storage is Amazon S3 used for?
+
+
+
+a:Object
+
+
+b:File
+
+
+c:Image
+
+
+d:Block
+Ans:a
+
+
+
+2.Question 2
+Databases and EC2 instances are most performant using block-level storage.
+
+
+a:False
+
+
+b:True
+Ans:b
+
+
+
+3.Question 3
+It’s end of the day Friday and you decided to stop your EC2 instance that’s connected to your EBS volumes.
+On Monday morning, your developer starts up a brand new EC2 instance. 
+What happens to your EBS volumes when you start up a new EC2 instance?
+
+
+
+a:The same EBS volumes can be reattached to the new EC2 instance
+
+
+b:The EBS volumes are terminated
+
+
+c:Nothing. You cannot start up a brand new EC2 instance.
+Ans:a
+
+
+4.Question 4
+You must create an S3 bucket before uploading your data to S3.
+
+
+
+a:False
+
+
+b:True
+Ans:b
+
+
+
+5.Question 5
+You’ve uploaded a PDF document to your S3 bucket. 
+When you try to access the object’s URL, you get an error. 
+What could be the cause of this error?
+
+
+
+a:You can’t upload a PDF document to S3.
+
+
+b:Your object doesn’t have private read access.
+
+
+c:You’ve exceeded the maximum upload size.
+
+
+d:Your object doesn’t have public read access.
+Ans:d
+
+
+
+6.Question 6
+Amazon EBS can attach to only one EC2 instance at a time.
+
+
+
+a:True
+
+
+b:False
+Ans:a
+
+
+7.Question 7
+What is an advantage of using Amazon EFS over Amazon EBS?
+
+
+
+a:EFS can only live in one subnet.
+
+
+b:EBS can be attached to multiple EC2 instances simultaneously.
+
+
+c:EBS can only live in one subnet.
+
+
+d:EFS can be attached to multiple EC2 instances simultaneously.
+Ans:d
+
