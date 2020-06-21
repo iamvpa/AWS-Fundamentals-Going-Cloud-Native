@@ -1,0 +1,71 @@
+1.Question 1
+What service distributes incoming traffic across multiple instances?
+
+
+
+a:Amazon EFS
+
+
+b:Amazon S3
+
+
+c:Amazon ELB
+
+
+d:Amazon EBS
+Ans:c
+
+2.Question 2
+Amazon ELB can only be used with public subnets.
+
+
+
+a:True
+
+
+b:False
+Ans:b
+
+3.Question 3
+Your users are reporting latency in your services. Traditionally with on premise architecture, you would have to page your admin so she could launch another server to balance the load on your servers. How can you automate this with AWS?
+
+
+a:Create two EC2 instances so you never run into this issue.
+
+
+b:Create an Amazon CloudWatch Alarm that triggers an Auto Scaling policy.
+
+
+c:Ask your users to upload all their data to Amazon S3.
+
+
+d:Setup Amazon Cloudtrail to monitor latency issues.
+Ans:b
+
+4.Question 4
+When creating an Auto Scaling group, you must define the minimum and maximum number of instances to scale to.
+
+
+a:False
+
+
+b:True
+Ans:b
+
+
+5.Question 5
+Which of the following statements best describes Auto Scaling?
+
+
+a:Pre-configured templates for your instances that package the bits you need for your server
+
+
+b:Monitors the usage of AWS resources to manage load balancing
+
+
+c:Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
+
+
+d:Provides high throughput and low latency
+Ans:c
+
