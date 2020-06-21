@@ -1,0 +1,237 @@
+1.Question 1
+What is AWS Trusted Advisor?
+
+
+
+a:Professional Services offering that helps you migrate to the cloud
+
+
+b:Partner program that helps you validate your application deployment
+
+
+c:Online tool that helps you configure resources to follow best practices
+
+
+d:AWS service that helps you manage access to your account
+Ans:c
+
+2.Question 2
+What is the AWS term for physically distinct groups of data centers?
+
+
+
+a:Edge location
+
+
+b:Cluster
+
+
+c:Region
+
+
+d:Availability Zone
+Ans:d
+
+3.Question 3
+Who owns and maintains the infrastructure required for application services for customers to provision and use?
+
+
+
+a:Amazon Web Services
+
+
+b:System Administrators
+
+
+c:Dev Ops
+
+
+d:AWS customers
+Ans:a
+
+4.Question 4
+An AMI is a template that contains a software configuration such as an operating system, application server, and applications.
+
+
+a:False
+
+
+b:True
+Ans:b
+
+5.Question 5
+Which of the following statements best describes Auto Scaling?
+
+
+a:Pre-configured templates for your instances that package the bits you need for your server
+
+
+b:Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
+
+
+c:Monitors the usage of AWS resources to manage load balancing
+
+
+d:Provides high throughput and low latency
+Ans:b
+
+6.Question 6
+Which of the following statements best describes Amazon RDS?
+
+
+
+a:An in-memory caching service.
+
+
+b:A fast, fully managed, petabyte-scale data warehouse solution used to efficiently analyze all your data using your existing business intelligence tools.
+
+
+c:A very high throughput, very low latency, fast NoSQL database service.
+
+
+d:A database engine that can be used with MySQL server, Oracle, Microsoft SQL server, PostgreSQL, and Amazon Aurora.
+Ans:d
+
+7.Question 7
+Unlike RDS, with Amazon DynamoDB you don’t need to define the underlying hardware you’re running your database on.
+
+
+
+False
+
+
+True
+Ans:b
+
+8.Question 8
+What type of storage is Amazon S3 used for?
+
+
+
+a:Block
+
+
+b:Object
+
+
+c:File
+
+
+d:Image
+Ans:b
+
+
+9.Question 9
+Databases and EC2 instances are most performant using block-level storage.
+
+
+
+a:False
+
+
+b:True
+Ans:b
+
+10.Question 10
+You’ve uploaded a PDF document to your S3 bucket.
+When you try to access the object’s URL, you get an error. What could be the cause of this error?
+
+
+
+a:You’ve exceeded the maximum upload size.
+
+
+b:You can’t upload a PDF document to S3.
+
+
+c:Your object doesn’t have private read access.
+
+
+d:Your object doesn’t have public read access.
+Ans:d
+
+
+11.Question 11
+What is an advantage of using Amazon EFS over Amazon EBS?
+
+
+a:EFS can only live in one subnet.
+
+
+b:EBS can only live in one subnet.
+
+
+c:EFS can be attached to multiple EC2 instances simultaneously.
+
+
+d:EBS can be attached to multiple EC2 instances simultaneously.
+Ans:c
+
+
+12.Question 12
+When creating a VPC, what items must you include? (Select two)
+
+
+
+a:Region
+
+b:Security Group
+
+
+c:IP Range
+
+
+d:Internet Gateway
+Ans:a,c
+
+13.Question 13
+Which of the following is NOT an advantage of AWS cloud computing over on-premise computing?
+
+
+
+a:Pay-as-you-go pricing
+
+
+b:Large upfront investments in physical servers
+
+
+c:Provision compute capacity on-demand
+
+
+d:Broad selection of hardware and software resources over the internet
+Ans:b
+
+
+14.Question 14
+Which AWS service allows you to use compute capacity without worrying about provisioning or managing underlying hardware?
+
+
+a:Amazon ECS
+
+
+b:Amazon DynamoDB
+
+
+c:Amazon S3
+
+
+d:Amazon Lightsail
+Ans:d
+
+15.Question 15
+According to the lecture, why does AWS exist?
+
+
+
+a:To replace your entire IT department
+
+
+b:To eliminate heavy-lifting tasks for your IT department
+
+
+c:To create more server space
+
+
+d:To replace all your hardware
+Ans:b
+
