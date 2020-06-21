@@ -1,0 +1,65 @@
+1.Question 1
+In the Shared Responsibility Model, which of the following are an example of "security in the cloud?" (Select two)
+
+
+
+a:Protecting the global infrastructure
+
+
+b:Which AWS services are used with the content
+
+
+
+c:In which country the content is stored
+
+
+d:Physical security of the facilities in which the services operate
+
+
+e:Compliance with computer security standards and regulations
+Ans:b,c
+
+2.Question 2
+In the Shared Responsibility Model, for which aspect of securing the cloud is AWS responsible?
+
+
+a:Security of the cloud
+
+
+b:Security for the cloud
+
+
+c:Security to the cloud
+
+
+d:Security in the cloud
+Ans:a
+
+3.Question 3
+What service alerts you when you’ve exceeded your costs over a specific time period?
+
+
+
+a:Amazon CloudWatch
+
+
+b:Amazon Pricing
+
+
+c:AWS Trusted Advisor
+
+
+d:AWS Budgets
+Ans:d
+
+4.Question 4
+AWS Trusted Advisor provides information for you to reduce costs, increase performance, increase security, and optimize your AWS environment.
+
+
+
+a:True
+
+
+b:False
+Ans:a
+
