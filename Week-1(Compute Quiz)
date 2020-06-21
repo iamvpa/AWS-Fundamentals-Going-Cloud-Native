@@ -1,0 +1,78 @@
+1.Question 1
+Which of the following is NOT an advantage of AWS cloud computing over on-premise computing?
+
+
+a:Provision compute capacity on-demand
+
+
+b:Pay-as-you-go pricing
+
+
+c:Large upfront investments in physical servers
+
+
+d:Broad selection of hardware and software resources over the internet
+Ans:c
+
+2.Question 2
+Which AWS service allows you to use compute capacity without worrying about provisioning or managing underlying hardware?
+
+
+
+a:Amazon Lightsail
+
+
+b:Amazon DynamoDB
+
+
+c:Amazon S3
+
+
+d:Amazon ECS
+Ans:a
+
+3.Question 3
+What does AMI stand for?
+
+
+
+a:Amazon Modified Instance
+
+
+b:Amazon Machine Image
+
+
+c:Amazon Main Infrastructure
+Ans:b
+
+4.Question 4
+If you want to make changes to your EC2 instance, you must do it programmatically.
+
+
+
+a:False
+
+
+b:True
+Ans:a
+
+5.Question 5
+An AMI allows you to configure software, such as operating system, web servers, etc. on your EC2 instance.
+
+
+
+a:True
+
+
+b:False
+Ans:a
+
+
+
+
+
+
+
+
+
+
